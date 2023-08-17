@@ -1,0 +1,10 @@
+create a folder 
+
+navigate to that folder in cmd 
+git init 
+
+create a file
+git status
+git add . or file name-- redo this step git restore --staged names.txt
+git commit
+
